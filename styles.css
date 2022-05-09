@@ -1,0 +1,20 @@
+img {
+	width:200px;
+    height:150px;
+    margin:10px;
+}
+
+.Aini {
+	background-color:#eba134;
+    color:white;
+    border:8px double red;
+    text-align: center;
+}
+
+.all {
+	border:5px dotted brown;
+    padding:3px;
+    margin:6px;
+    display:flex;
+    justify-content:center;
+}
